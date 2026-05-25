@@ -1,15 +1,17 @@
 <p align="center">
-  <img src="../banner1500x500.jpg" alt="polyScripts Banner" width="100%">
+  <img src="../Banner600x200.jpg" alt="PolyMaxi Banner" width="100%">
 </p>
 
 <div align="center">
 
-# POLYSCRIPTS
+# PolyMaxi
 
-Polymarket bots built to make you profit.
+**Professional Polymarket Bot Pack - Built for Profit**
 
-We researched the entire bot market, built what actually works, tested everything, and got real users saying it works. We offer fully researched solutions with deep market analysis before we built. Our production-ready bots are practical tools for real trading. Everything is thoroughly tested with rigorous QA and performance checks. We have a proven track record with strong customer feedback and satisfaction.
+PolyMaxi is a dedicated team that mapped the Polymarket bot ecosystem in depth, then designed and delivered a suite of production-ready trading bots. Every release is built for real market conditions, validated through rigorous testing, and backed by consistent positive feedback from customers.
 
-Ready to automate your Polymarket edge? Want a bot that makes profit? Contact us to get started.
+**Research-driven design** · **Production-ready bots** · **Rigorous validation** · **Proven track record**
+
+Interested in a Polymarket bot built to perform? **Contact us** to discuss your requirements and explore our available bot packs.
 
 </div>
